@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindTheBugWeek2",
+            "request": "launch",
+            "mainClass": "FindTheBugWeek2"
+        }
+    ]
+}
